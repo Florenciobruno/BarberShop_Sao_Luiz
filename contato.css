@@ -3,12 +3,12 @@ body{
     font-size: 30px;
     font-family: bookman old style;
     font-style: italic;
-    background-image: url(planoFundoPexels.jpg); opacity: 0.4;
+    background-image: url(planoFundoPexels.png);
     background-position: center;
     justify-content: center;
     background-repeat: no-repeat;
-    opacity: 1;
     background-attachment: fixed;
+    color:white;
 }
 
 .container{
